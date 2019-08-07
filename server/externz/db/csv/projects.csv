@@ -1,0 +1,5 @@
+id,name,description,start_date,end_date,project_type,location,pay,eligibility,additional,status,business_id,student_id
+1,File Organization,Sort documents into corresponding folders in cloud,2019-6-17,2019-6-19,Clercial,"Clarkston, MI",13.5,College Senior,N/A,open,1,1
+2,Phone Support,Support incoming phone calls,2019-6-25,2019-6-27,Customer Service,"Okemos, MI",10.5,College Senior,N/A,open,2,2
+3,Customer Relations Help,Manage existing customer relationships,2019-7-2,2019-7-3,Customer Service,"Lansing, MI",12.75,College Senior,N/A,open,3,3
+4,Sales Marketing,Assist with outbound sales calls,2019-7-9,2019-7-16,Sales/Marketing,"Chesterfield, MI",11.25,College Senior,N/A,open,4,4

@@ -1,0 +1,6 @@
+id,name,street_address,city,state,image,industry,web,email,job_category_id,user_id
+1,Chase,123 Apple St,Detroit,MI,https://creditcards.chase.com/K-Marketplace/images/cardart/sapphire_preferred_card.png,Financial,www.chase.com,chase@email.com,6,6
+2,Snapple,321 Tea St,Wayne,MI,https://unsplash.com/photos/gy_DN08336U.png,Drinks,www.snapple.com,snapple@email.com,23,7
+3,Slim Jim,543 Beef Rd,Okemos,MI,https://logonoid.com/images/slim-jim-logo.png,Food,www.slimjim.com,slimjim@email.com,23,8
+4,Children's Hospital,443 Health Rd,Detroit,MI,https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjdsbXI0M7jAhUCZN8KHX8TAZ8QjRx6BAgBEAU&url=https%3A%2F%2Fchildrenscoloradofoundation.childrensmiraclenetworkhospitals.org%2Fblog%2F&psig=AOvVaw1sZm5d326Rtt_ZQ5CKOig6&ust=1564094563604039,Medical,www.chs.com,chs@email.com,18,9
+5,Nike,444 Athlete St,Eugene,OR,https://www.google.com/url?sa=i&source=images&cd=&ved=&url=https%3A%2F%2Fwww.amazon.com%2FCrawford-Graphix-Swoosh-Vinyl-Sticker%2Fdp%2FB0074S8V16&psig=AOvVaw2NP_TNae-COKXh5rFSprXO&ust=1564094990409434,Athletic,www.nike.com,nike@email.com,23,10
