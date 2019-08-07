@@ -1,6 +1,7 @@
 {
   "name": "externz",
   "version": "0.1.0",
+  "main": "index.js",
   "engines": {
     "node": "12.7.0"
   },
@@ -26,9 +27,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build": "cd client && npm install && npm run build && cd ..",
+    "deploy": "cp -a client/build/. public/",
+    "postinstall": "npm run build && npm run deploy && echo 'Client built!'"
   },
   "eslintConfig": {
     "extends": "react-app"
