@@ -1,4 +1,3 @@
-require 'byebug'
 require 'csv'
 
 namespace :import do
