@@ -382,3 +382,12 @@ puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
 puma (3.12.1) lib/puma/server.rb:474:in `process_client'
 puma (3.12.1) lib/puma/server.rb:334:in `block in run'
 puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for ::1 at 2019-08-07 23:07:04 -0400
+  [1m[35m (32.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/HaniaRoad/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/HaniaRoad/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/HaniaRoad/.rvm/gems/ruby-2.6.3/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (3.6ms)
+Completed 200 OK in 15ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
