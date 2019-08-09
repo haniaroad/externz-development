@@ -400,3 +400,7 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 26ms (Views: 19.3ms | ActiveRecord: 0.0ms)
 
 
+  [1m[35m (1.2ms)[0m  [1m[35mCREATE DATABASE "externz_development" ENCODING = 'unicode'[0m
+  ↳ /Users/HaniaRoad/.rvm/gems/ruby-2.6.3/bin/rake:23
+  [1m[35m (14.8ms)[0m  [1m[35mCREATE DATABASE "externz_test" ENCODING = 'unicode'[0m
+  ↳ /Users/HaniaRoad/.rvm/gems/ruby-2.6.3/bin/rake:23
