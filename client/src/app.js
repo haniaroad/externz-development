@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import AppLayout from "../layout/AppLayout";
-import { HomePage, LoginPage } from "../pages";
-import Footer from "../components/Footer";
+import AppLayout from "./layout/AppLayout";
+import { HomePage, LoginPage } from "./pages";
+import Footer from "./components/Footer";
 
 function App() {
   return (
