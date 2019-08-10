@@ -5,7 +5,7 @@
     "/api": {
       "target": "http://localhost:3001"
     },
-  "main": "App.js",
+  "main": "app.js",
   "engines": {
     "node": "12.7.0",
     "npm": "6.10.2"
